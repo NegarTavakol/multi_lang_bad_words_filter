@@ -1,4 +1,9 @@
-# multi_lang_bad_words_filter
+# Multi Language Bad Words Filter
+
+[![Pub Version](https://img.shields.io/pub/v/multi_lang_bad_words_filter)](https://pub.dev/packages/multi_lang_bad_words_filter)
+[![GitHub stars](https://img.shields.io/github/stars/NegarTavakol/multi_lang_bad_words_filter?style=social)](https://github.com/NegarTavakol/multi_lang_bad_words_filter)
+[!License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 A Flutter package for filtering bad and sensitive words in multiple languages, including:
 🇬🇧 English | 🇮🇷 Persian | 🇸🇦 Arabic | 🇹🇷 Turkish | 🇩🇪 German | 🇫🇷 French | 🇪🇸 Spanish | 🇷🇺 Russian
