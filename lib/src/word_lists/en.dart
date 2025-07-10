@@ -16,7 +16,17 @@ const List<String> badWordsEn = [
   'douche',
   'moron',
   'piss',
-  'retard'
+  'retard',
+  'cunt',
+  'prick',
+  'twat',
+  'wanker',
+  'hoe',
+  'numbnuts',
+  'dumbass',
+  'jackass',
+  'shithead',
+  'bitch',
 ];
 
 /// 🚫 Sensitive topics: sex, suicide, violence, drugs, threats
@@ -38,6 +48,15 @@ const List<String> sensitiveWordsEn = [
   'sperm',
   'threesome',
   'hooker',
+  'camgirl',
+  'onlyfans',
+  'sexting',
+  'deepthroat',
+  'creampie',
+  'fingering',
+  'nsfw',
+  'hentai',
+
 
   // ⚠️ Suicide / self-harm
   'suicide',
@@ -47,6 +66,12 @@ const List<String> sensitiveWordsEn = [
   'i want to die',
   'end my life',
   'hang myself',
+  'no will to live',
+  'i hate my life',
+  'wish i was dead',
+  'drink bleach',
+  'life is pointless',
+
 
   // 🔪 Violence / sadism / threats
   'murder',
@@ -58,6 +83,12 @@ const List<String> sensitiveWordsEn = [
   'choke you',
   'i will kill you',
   'kill everyone',
+  'school shooter',
+  'massacre',
+  'skin you',
+  'cut your throat',
+  'hunt you down',
+
 
   // 💊 Drugs
   'cocaine',
@@ -69,6 +100,12 @@ const List<String> sensitiveWordsEn = [
   'crack',
   'overdose',
   'drug addict',
+  'xanax',
+  'lean',
+  'fentanyl',
+  'shoot up',
+  'rolling',
+
 
   // 🔫 Weapons / terrorism
   'gun',
@@ -82,5 +119,11 @@ const List<String> sensitiveWordsEn = [
   'sniper',
   'execute',
   'war crime',
+  'ak47',
+  'glock',
+  'pipe bomb',
+  'kill list',
+  'isis',
+
 ];
 

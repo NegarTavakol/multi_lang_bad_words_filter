@@ -11,6 +11,17 @@ const List<String> badWordsDe = [
   'spasti',
   'penner',
   'blödmann',
+  'fuck',
+  'wichse',
+  'bastard',
+  'fick dich',
+  'schlampe',
+  'kacke',
+  'nutte',
+  'arsch',
+  'schwanzlutscher',
+  'drecksack',
+  'kotzbrocken',
 ];
 
 /// Sensible Begriffe (Sex, Gewalt, Drogen, Suizid etc.)
@@ -28,6 +39,16 @@ const List<String> sensitiveWordsDe = [
   'ejakulation',
   'dildo',
   'hure',
+  'camgirl',
+  'onlyfans',
+  'sexting',
+  'nacktfoto',
+  'ficken',
+  'triplette',
+  'gangbang',
+  'creampie',
+  'nsfw',
+
 
   // ⚠️ Selbstmord / Selbstverletzung
   'selbstmord',
@@ -35,6 +56,12 @@ const List<String> sensitiveWordsDe = [
   'ich bringe mich um',
   'ritzen',
   'leben beenden',
+  'ich hasse mein leben',
+  'leben ist sinnlos',
+  'ich bin nutzlos',
+  'wunsch zu sterben',
+  'ich will nicht mehr leben',
+
 
   // 🔪 Gewalt / Sadismus / Bedrohung
   'töten',
@@ -45,6 +72,12 @@ const List<String> sensitiveWordsDe = [
   'blutbad',
   'foltern',
   'massaker',
+  'schulmassaker',
+  'abschlachten',
+  'enthaupten',
+  'blutig',
+  'ich bringe euch alle um',
+
 
   // 💊 Drogen
   'kokain',
@@ -54,6 +87,13 @@ const List<String> sensitiveWordsDe = [
   'haschisch',
   'überdosis',
   'droge',
+  'xtc',
+  'mdma',
+  'benzodiazepin',
+  'fentanyl',
+  'süchtig',
+  'fixen',
+
 
   // 🔫 Waffen / Terror / Bedrohung
   'bombe',
@@ -64,4 +104,10 @@ const List<String> sensitiveWordsDe = [
   'geisel',
   'attentat',
   'terrorist',
+  'kalaschnikow',
+  'sprengstoff',
+  'granate',
+  'tötungsliste',
+  'islamist',
+
 ];

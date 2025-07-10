@@ -16,6 +16,17 @@ const List<String> badWordsTr = [
   'yarrak',
   'sürtük',
   'sik',
+  'siktir',
+  'sikik',
+  'yavşak',
+  'pezevenk',
+  'yalama',
+  'top',
+  'ibne',
+  'çük',
+  'sübyancı',
+  'kro',
+
 ];
 
 /// Hassas konular: cinsellik, şiddet, intihar, uyuşturucu, tehdit
@@ -34,6 +45,15 @@ const List<String> sensitiveWordsTr = [
   'sikiş',
   'fuhuş',
   'üçlü ilişki',
+  'liseli porno',
+  'lezbiyen',
+  'anal seks',
+  'gay porno',
+  'sağ elle yapmak',
+  'azdırmak',
+  'çırılçıplak',
+  'erotik',
+
 
   // ⚠️ İntihar / kendine zarar verme
   'intihar',
@@ -42,6 +62,13 @@ const List<String> sensitiveWordsTr = [
   'canıma kıyacağım',
   'hayatıma son vereceğim',
   'kendimi kesiyorum',
+  'yaşamak istemiyorum',
+  'ölüm tek çare',
+  'ölmeyi düşünüyorum',
+  'benim için her şey bitti',
+  'hayatım mahvoldu',
+  'kendime zarar veriyorum',
+
 
   // 🔪 Şiddet / tehdit / sadizm
   'öldüreceğim',
@@ -53,6 +80,14 @@ const List<String> sensitiveWordsTr = [
   'katliam',
   'kan banyosu',
   'parçalamak',
+  'öldürürüm seni',
+  'yakarım evini',
+  'sana zarar vereceğim',
+  'kurşunlayacağım',
+  'kan gövdeyi götürecek',
+  'kafanı kırarım',
+  'seni doğrarım',
+
 
   // 💊 Uyuşturucu
   'eroin',
@@ -63,6 +98,14 @@ const List<String> sensitiveWordsTr = [
   'bağımlı',
   'overdose',
   'metamfetamin',
+  'lunapark',
+  'bonzai',
+  'extacy',
+  'çakmak gazı',
+  'kafa yapıcı',
+  'ketamin',
+  'uyuşturucu içmek',
+
 
   // 🔫 Silah / tehdit / terör
   'bomba',
@@ -73,4 +116,12 @@ const List<String> sensitiveWordsTr = [
   'patlatmak',
   'öldürmekle tehdit',
   'kesici alet',
+  'roket',
+  'kesici alet',
+  'katliam yapacağım',
+  'otomatik tüfek',
+  'keserim seni',
+  'terör saldırısı',
+  'savaş suçu',
+
 ];

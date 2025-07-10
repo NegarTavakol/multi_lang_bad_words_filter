@@ -13,6 +13,14 @@ const List<String> badWordsEs = [
   'culero',
   'estúpido',
   'jodido',
+  'malparido',
+  'hijo de puta',
+  'perra',
+  'pelotudo',
+  'boludo',
+  'verga',
+  'mamón',
+  'culiao',
 ];
 
 /// Términos sensibles: sexo, violencia, suicidio, drogas, amenazas
@@ -32,6 +40,10 @@ const List<String> sensitiveWordsEs = [
   'follar',
   'trío',
   'prostituta',
+  'lencería',
+  'sexo anal',
+  'chupar',
+
 
   // ⚠️ Suicidio / autolesión
   'suicidio',
@@ -40,6 +52,8 @@ const List<String> sensitiveWordsEs = [
   'cortarme',
   'terminar mi vida',
   'odio vivir',
+  'no quiero vivir',
+  'no le veo sentido a la vida',
 
   // 🔪 Violencia / amenazas / sadismo
   'asesinar',
@@ -51,6 +65,9 @@ const List<String> sensitiveWordsEs = [
   'masacre',
   'apuñalar',
   'decapitar',
+  'quemar vivo',
+  'desmembrar',
+  'te voy a violar'
 
   // 💊 Drogas
   'cocaína',
@@ -62,6 +79,9 @@ const List<String> sensitiveWordsEs = [
   'sobredosis',
   'lsd',
   'metanfetamina',
+  'xtc',
+  'pastillas',
+  'hachís',
 
   // 🔫 Armas / terrorismo / amenazas físicas
   'pistola',

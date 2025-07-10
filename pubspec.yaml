@@ -1,6 +1,6 @@
 name: multi_lang_bad_words_filter
 description: A multilingual bad words filtering package supporting English, Persian, Arabic, Turkish, and more.
-version: 0.0.2
+version: 0.0.3
 license: MIT
 homepage: https://github.com/NegarTavakol/multi_lang_bad_words_filter
 repository: https://github.com/NegarTavakol/multi_lang_bad_words_filter
